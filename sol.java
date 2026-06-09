@@ -17,7 +17,7 @@ public class Main {
             if (isPrime(i)) {
                 count++;
             }
-        }
+         }
 
         System.out.println("Count of primes from 1 to " + (n - 1) + " is: " + count);
     }
